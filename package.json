@@ -4,6 +4,7 @@
     "description": "",
     "main": "readdatabase.js",
     "dependencies": {
+        "bootstrap": "^5.2.0",
         "json-parse": "^1.0.3",
         "node-fetch": "^2.6.7"
     },
